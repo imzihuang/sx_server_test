@@ -1,0 +1,5 @@
+启动测试服务
+参数：sum，调用山西调试短信接口次数。
+python main.py sum
+
+示例：python main.py 10

@@ -1,0 +1,75 @@
+2014-11-04 08:35:23,738 [INFO] [28684] [MainThread] --------------------------begin------------------------------------------
+2014-11-04 08:35:23,739 [INFO] [28684] [MainThread] data : content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:23,739 [DEBUG] [28684] [MainThread] GET http://183.203.36.14:8777/sxm-crm-esop-pro/api/project/bbx/send_msg.json?content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:24,116 [INFO] [28684] [MainThread] sms ok : {"apiVersion":"1.0","data":"短信发送成功!","prompt":"OK"}
+2014-11-04 08:35:24,124 [INFO] [28684] [MainThread] --------------------------end------------------------------------------
+2014-11-04 08:35:24,125 [INFO] [28684] [MainThread] --------------------------begin------------------------------------------
+2014-11-04 08:35:24,125 [INFO] [28684] [MainThread] data : content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:24,125 [DEBUG] [28684] [MainThread] GET http://183.203.36.14:8777/sxm-crm-esop-pro/api/project/bbx/send_msg.json?content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:24,253 [INFO] [28684] [MainThread] sms ok : {"apiVersion":"1.0","data":"短信发送成功!","prompt":"OK"}
+2014-11-04 08:35:24,253 [INFO] [28684] [MainThread] --------------------------end------------------------------------------
+2014-11-04 08:35:24,254 [INFO] [28684] [MainThread] --------------------------begin------------------------------------------
+2014-11-04 08:35:24,254 [INFO] [28684] [MainThread] data : content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:24,255 [DEBUG] [28684] [MainThread] GET http://183.203.36.14:8777/sxm-crm-esop-pro/api/project/bbx/send_msg.json?content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:24,338 [INFO] [28684] [MainThread] sms ok : {"apiVersion":"1.0","data":"短信发送成功!","prompt":"OK"}
+2014-11-04 08:35:24,338 [INFO] [28684] [MainThread] --------------------------end------------------------------------------
+2014-11-04 08:35:24,338 [INFO] [28684] [MainThread] --------------------------begin------------------------------------------
+2014-11-04 08:35:24,339 [INFO] [28684] [MainThread] data : content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:24,339 [DEBUG] [28684] [MainThread] GET http://183.203.36.14:8777/sxm-crm-esop-pro/api/project/bbx/send_msg.json?content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:24,423 [INFO] [28684] [MainThread] sms ok : {"apiVersion":"1.0","data":"短信发送成功!","prompt":"OK"}
+2014-11-04 08:35:24,424 [INFO] [28684] [MainThread] --------------------------end------------------------------------------
+2014-11-04 08:35:24,424 [INFO] [28684] [MainThread] --------------------------begin------------------------------------------
+2014-11-04 08:35:24,424 [INFO] [28684] [MainThread] data : content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:24,425 [DEBUG] [28684] [MainThread] GET http://183.203.36.14:8777/sxm-crm-esop-pro/api/project/bbx/send_msg.json?content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:24,506 [INFO] [28684] [MainThread] sms ok : {"apiVersion":"1.0","data":"短信发送成功!","prompt":"OK"}
+2014-11-04 08:35:24,506 [INFO] [28684] [MainThread] --------------------------end------------------------------------------
+2014-11-04 08:35:24,507 [INFO] [28684] [MainThread] --------------------------begin------------------------------------------
+2014-11-04 08:35:24,507 [INFO] [28684] [MainThread] data : content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:24,507 [DEBUG] [28684] [MainThread] GET http://183.203.36.14:8777/sxm-crm-esop-pro/api/project/bbx/send_msg.json?content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:24,604 [INFO] [28684] [MainThread] sms ok : {"apiVersion":"1.0","data":"短信发送成功!","prompt":"OK"}
+2014-11-04 08:35:24,605 [INFO] [28684] [MainThread] --------------------------end------------------------------------------
+2014-11-04 08:35:24,605 [INFO] [28684] [MainThread] --------------------------begin------------------------------------------
+2014-11-04 08:35:24,605 [INFO] [28684] [MainThread] data : content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:24,606 [DEBUG] [28684] [MainThread] GET http://183.203.36.14:8777/sxm-crm-esop-pro/api/project/bbx/send_msg.json?content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:24,693 [INFO] [28684] [MainThread] sms ok : {"apiVersion":"1.0","data":"短信发送成功!","prompt":"OK"}
+2014-11-04 08:35:24,693 [INFO] [28684] [MainThread] --------------------------end------------------------------------------
+2014-11-04 08:35:24,694 [INFO] [28684] [MainThread] --------------------------begin------------------------------------------
+2014-11-04 08:35:24,694 [INFO] [28684] [MainThread] data : content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:24,694 [DEBUG] [28684] [MainThread] GET http://183.203.36.14:8777/sxm-crm-esop-pro/api/project/bbx/send_msg.json?content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:24,790 [INFO] [28684] [MainThread] sms ok : {"apiVersion":"1.0","data":"短信发送成功!","prompt":"OK"}
+2014-11-04 08:35:24,791 [INFO] [28684] [MainThread] --------------------------end------------------------------------------
+2014-11-04 08:35:24,791 [INFO] [28684] [MainThread] --------------------------begin------------------------------------------
+2014-11-04 08:35:24,791 [INFO] [28684] [MainThread] data : content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:24,791 [DEBUG] [28684] [MainThread] GET http://183.203.36.14:8777/sxm-crm-esop-pro/api/project/bbx/send_msg.json?content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:24,880 [INFO] [28684] [MainThread] sms ok : {"apiVersion":"1.0","data":"短信发送成功!","prompt":"OK"}
+2014-11-04 08:35:24,880 [INFO] [28684] [MainThread] --------------------------end------------------------------------------
+2014-11-04 08:35:24,881 [INFO] [28684] [MainThread] --------------------------begin------------------------------------------
+2014-11-04 08:35:24,881 [INFO] [28684] [MainThread] data : content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:24,881 [DEBUG] [28684] [MainThread] GET http://183.203.36.14:8777/sxm-crm-esop-pro/api/project/bbx/send_msg.json?content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:24,975 [INFO] [28684] [MainThread] sms ok : {"apiVersion":"1.0","data":"短信发送成功!","prompt":"OK"}
+2014-11-04 08:35:24,975 [INFO] [28684] [MainThread] --------------------------end------------------------------------------
+2014-11-04 08:35:24,975 [INFO] [28684] [MainThread] --------------------------begin------------------------------------------
+2014-11-04 08:35:24,975 [INFO] [28684] [MainThread] data : content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:24,976 [DEBUG] [28684] [MainThread] GET http://183.203.36.14:8777/sxm-crm-esop-pro/api/project/bbx/send_msg.json?content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:25,059 [INFO] [28684] [MainThread] sms ok : {"apiVersion":"1.0","data":"短信发送成功!","prompt":"OK"}
+2014-11-04 08:35:25,060 [INFO] [28684] [MainThread] --------------------------end------------------------------------------
+2014-11-04 08:35:25,060 [INFO] [28684] [MainThread] --------------------------begin------------------------------------------
+2014-11-04 08:35:25,060 [INFO] [28684] [MainThread] data : content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:25,061 [DEBUG] [28684] [MainThread] GET http://183.203.36.14:8777/sxm-crm-esop-pro/api/project/bbx/send_msg.json?content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:25,147 [INFO] [28684] [MainThread] sms ok : {"apiVersion":"1.0","data":"短信发送成功!","prompt":"OK"}
+2014-11-04 08:35:25,147 [INFO] [28684] [MainThread] --------------------------end------------------------------------------
+2014-11-04 08:35:25,147 [INFO] [28684] [MainThread] --------------------------begin------------------------------------------
+2014-11-04 08:35:25,148 [INFO] [28684] [MainThread] data : content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:25,148 [DEBUG] [28684] [MainThread] GET http://183.203.36.14:8777/sxm-crm-esop-pro/api/project/bbx/send_msg.json?content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:25,232 [INFO] [28684] [MainThread] sms ok : {"apiVersion":"1.0","data":"短信发送成功!","prompt":"OK"}
+2014-11-04 08:35:25,233 [INFO] [28684] [MainThread] --------------------------end------------------------------------------
+2014-11-04 08:35:25,233 [INFO] [28684] [MainThread] --------------------------begin------------------------------------------
+2014-11-04 08:35:25,233 [INFO] [28684] [MainThread] data : content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:25,233 [DEBUG] [28684] [MainThread] GET http://183.203.36.14:8777/sxm-crm-esop-pro/api/project/bbx/send_msg.json?content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:25,331 [INFO] [28684] [MainThread] sms ok : {"apiVersion":"1.0","data":"短信发送成功!","prompt":"OK"}
+2014-11-04 08:35:25,331 [INFO] [28684] [MainThread] --------------------------end------------------------------------------
+2014-11-04 08:35:25,332 [INFO] [28684] [MainThread] --------------------------begin------------------------------------------
+2014-11-04 08:35:25,332 [INFO] [28684] [MainThread] data : content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:25,332 [DEBUG] [28684] [MainThread] GET http://183.203.36.14:8777/sxm-crm-esop-pro/api/project/bbx/send_msg.json?content=test&token_id=3cbaec34-39d3-4eb2-bcac-0bc02e6a9667&id=lt_sx_1
+2014-11-04 08:35:25,430 [INFO] [28684] [MainThread] sms ok : {"apiVersion":"1.0","data":"短信发送成功!","prompt":"OK"}
+2014-11-04 08:35:25,430 [INFO] [28684] [MainThread] --------------------------end------------------------------------------
